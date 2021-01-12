@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.com/react-demo/static/css/main.c349aee9.chunk.css",
+    "main.js": "/github.com/react-demo/static/js/main.be92832d.chunk.js",
+    "main.js.map": "/github.com/react-demo/static/js/main.be92832d.chunk.js.map",
+    "runtime-main.js": "/github.com/react-demo/static/js/runtime-main.20ffac52.js",
+    "runtime-main.js.map": "/github.com/react-demo/static/js/runtime-main.20ffac52.js.map",
+    "static/js/2.04ca0133.chunk.js": "/github.com/react-demo/static/js/2.04ca0133.chunk.js",
+    "static/js/2.04ca0133.chunk.js.map": "/github.com/react-demo/static/js/2.04ca0133.chunk.js.map",
+    "static/js/3.393cfa97.chunk.js": "/github.com/react-demo/static/js/3.393cfa97.chunk.js",
+    "static/js/3.393cfa97.chunk.js.map": "/github.com/react-demo/static/js/3.393cfa97.chunk.js.map",
+    "index.html": "/github.com/react-demo/index.html",
+    "static/css/main.c349aee9.chunk.css.map": "/github.com/react-demo/static/css/main.c349aee9.chunk.css.map",
+    "static/js/2.04ca0133.chunk.js.LICENSE.txt": "/github.com/react-demo/static/js/2.04ca0133.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20ffac52.js",
+    "static/js/2.04ca0133.chunk.js",
+    "static/css/main.c349aee9.chunk.css",
+    "static/js/main.be92832d.chunk.js"
+  ]
+}
